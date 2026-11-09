@@ -1,0 +1,2 @@
+
+There are three Southern nations Bersun, Ophaghen, and Tockhl. Each are devote followers of [[Livsfødel]] and each are reliant on their own elemental focus. Bersun on lightning, Ophaghen on fire, and Tockhl on Frost. All three have raided the surrounding lands since records began.

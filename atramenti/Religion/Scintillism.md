@@ -1,0 +1,1 @@
+Also known as The Ways of the Old Whispers, the collection of spirits worshipped by the Forians Suscerists, whos voice may sway the balance must always speak in hushed tones and speak infrequently.
