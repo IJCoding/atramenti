@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Crowns/The Cineri.md",
+                "file": "The Crowns/The Petty Kings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Cineri"
+              "title": "The Petty Kings"
             }
           }
         ]
@@ -188,19 +188,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "6a2efe55a5247f8f",
+  "active": "1e4ee8cc94e44799",
   "lastOpenFiles": [
+    "Layouts/Atramenti.pdf",
+    "Layouts/Sax.pdf",
+    "Layouts/Cineri.pdf",
+    "Layouts",
+    "New folder",
+    "The Crowns/The Cineri.md",
     "DM STUFF NO LOOKING/Sheets/Selenthra Ashvyr Sheet.pdf",
     "DM STUFF NO LOOKING/Sheets/ValentinSheet.pdf",
     "DM STUFF NO LOOKING/Sheets",
     "DM STUFF NO LOOKING",
     "DM STUFF NO LOOKING/Player Character/Valentin.pdf",
     "DM STUFF NO LOOKING/Player Character/Selenthra Ashvyr.pdf",
-    "DM STUFF NO LOOKING/Player Character",
-    "System/The Beastheart v1.0.pdf",
-    "System/Summoner v1.0b.pdf",
-    "System/Draw_Steel_Monsters_v1.01.pdf",
-    "System/Draw_Steel_Heroes_v1.01b.pdf",
     "Untitled.canvas",
     "2026-11-09.md",
     "Religion/Titans/Vitrum.md",
@@ -214,7 +215,6 @@
     "Atramenti.md",
     "Documents/Nam Domus Nova Ex Auctoribus Poll..md",
     "Religion/Coniunctio.md",
-    "The Crowns/The Cineri.md",
     "The Crowns/The Dyadic Throne.md",
     "The Crowns/The Petty Kings.md",
     "Religion/Titans/Hebes.md",
